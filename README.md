@@ -1,7 +1,7 @@
 # bookstore
 bookstore
 
-![Uploading image.png…]()
+<img width="892" height="465" alt="image" src="https://github.com/user-attachments/assets/5a7e44a5-a1d5-4e12-8042-e2f3a32442a0" />
 
 
 Создать Web-версию книжного магазина
